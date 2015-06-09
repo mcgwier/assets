@@ -2,7 +2,7 @@
 
 Asset resources for my repos (e.g. .png, .gif, .svg)
 
-## Create new assets bucket for new repos
+## Create new asset buckets for repos
 
 ```bash
 $ git checkout --orphan <branch>
